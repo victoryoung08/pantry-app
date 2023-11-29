@@ -1,0 +1,6 @@
+.itemCard {
+  @apply text-center flex items-center justify-center rounded-lg mt-2 mb-2;
+  width: 100%;
+  background-color: var(--bg-primary);
+  height: 45px;
+}

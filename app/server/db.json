@@ -1,0 +1,23 @@
+{
+  "pantry": [
+    {
+      "id": 1,
+      "item": "plain flour",
+      "date_added": "26 November"
+    },
+    {
+      "id": 2,
+      "item": "chicken salt",
+      "date_added": "25 November"
+    },
+    {
+      "id": 3,
+      "item": "eggs",
+      "date_added": "24 November"
+    },
+    {
+      "item": "food",
+      "id": 4
+    }
+  ]
+}
